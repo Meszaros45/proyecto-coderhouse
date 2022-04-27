@@ -184,6 +184,11 @@ footer{
     height: 100%;
 }
 
+p{
+    color: white;
+    text-align: center;
+}
+
 .ul-footer{
     list-style-type: none;
 }
